@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "mongo",
+    "type": "java.lang.String",
+    "description": "A description for 'mongo'"
+  },
+  {
+    "name": "mongodb.socket.connectTimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'mongodb.socket.connectTimeout'"
+  },
+  {
+    "name": "mongodb.socket.connectTimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'mongodb.socket.connectTimeout'"
+  },
+  {
+    "name": "mongodb.socket.connectTimeout",
+    "type": "java.lang.String",
+    "description": "A description for 'mongodb.socket.connectTimeout'"
+  }
+]}
